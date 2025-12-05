@@ -1,0 +1,5 @@
+# BDX Robot Python API Requirements
+# For Jetson Orin Nano
+
+pyserial>=3.5
+numpy>=1.21.0
